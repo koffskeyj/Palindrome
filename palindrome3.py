@@ -4,7 +4,7 @@ word = word.replace(" ", "")
 
 for punct in string.punctuation:
     word = word.replace(punct, "")
-
+# i = index
 i1 = 0
 i2 = (len(word)-1)
 
